@@ -3,11 +3,13 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist.Slowdive = 'songTitle';
+  playlist.'Slowdive' = 'songTitle';
+  playlist.'My Bloody Valentine' = 'songTitle';
+  playlist.'Phil Orchs' = 'songTitle';
   return playlist;
 }
 
 function removeFromPlaylist(playlist, artistName){
-  Object.assign({}, {name1: 'song1'})
+
   return playlist;
 }
