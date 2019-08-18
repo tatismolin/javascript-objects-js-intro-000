@@ -3,9 +3,9 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist[Slowdive] = 'songTitle';
-  playlist[My Bloody Valentine] = 'songTitle';
-  playlist[Phil Orchs] = 'songTitle';
+  playlist['Slowdive'] = 'songTitle';
+  playlist['My Bloody Valentine'] = 'songTitle';
+  playlist['Phil Orchs'] = 'songTitle';
   return playlist;
 }
 
