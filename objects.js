@@ -3,7 +3,7 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist.'Phil Orchs' = 'Slowdrive';
+  playlist.artistName = 'songTitle';
   return playlist;
 }
 
